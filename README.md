@@ -1,5 +1,4 @@
 # trees-showcase
-<<<<<<< HEAD
 Ecosia Tree Showcase
 =======
 
@@ -25,4 +24,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> c8f8b6d1b4099eab529359233278e94da55fdf76
