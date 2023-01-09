@@ -17,17 +17,8 @@ export default {
   },
   created() {
     document.title = "Ecosia Trees"
-    this.getList();
+   
   },
-  props: {
-  },
-  methods: {
-    getList() {
-      this.axios.get('https://s3.eu-central-1.amazonaws.com/ecosia-frontend-developer/trees.json').then((response) => {
-        console.log(response.data)
-      })
-    }
-  }
 }
 </script>
 
